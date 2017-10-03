@@ -6,14 +6,18 @@ Crawler Project僅作同步download
 
 實作說明
 
+
 實作MultiThread同步下載蘋果新聞頁面
 - newCachedThreadPool搭配Semaphore 實作
+
 
 PageManager.class暫時寫定要抓取的網址
 - 以AtomicInteger控制url陣列
 
+
 DownloadWeb.class做輸出html頁面，可做輸出位置修改
 - File file = new File("D:/Apple/"+fn.getn()+".html");
+
 
 LinkedHash.class做html內碼暫存
 - 以LinkedHashMap實作儲存
@@ -22,4 +26,5 @@ LinkedHash.class做html內碼暫存
   以便LinkedHashMap作頁面區分
   
   
+  
 Crawler Project是我從大二暑假練習爬蟲時、陸續撰寫至今(大四)的學習整理
