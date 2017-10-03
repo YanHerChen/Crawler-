@@ -2,7 +2,7 @@
 
 Crawler Project 僅作同步下載  
 之後將開發URL 自動搜索，配合Crawler Project 進行通用版網路爬蟲  
-故目前URL 是寫死在PageManager.class 裏頭  
+故目前URL 是寫死在PageManager.class  
   
   
 實作說明
