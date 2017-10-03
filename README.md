@@ -32,4 +32,4 @@ LinkedHash.class
   
   
     
-Crawler Project是我從大二暑假練習爬蟲時、陸續撰寫至今(大四)的學習整理
+Crawler Project是我從大二暑假練習爬蟲時、陸續修改至今(大四)的學習整理
