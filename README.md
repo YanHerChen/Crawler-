@@ -1,7 +1,7 @@
 # Crawler-蘋果新聞頁面下載
 
-Crawler Project 僅作同步下載    
-之後將開發URL 自動搜索，配合Crawler Project 進行通用版網路爬蟲  
+Crawler Project 僅作同步下載  
+之後將開發URL 自動搜索，配合Crawler Project 進行通用版網路爬蟲  
 故目前URL 是寫死在PageManager.class 裏頭  
   
   
@@ -24,12 +24,11 @@ DownloadWeb.class
   
   
 LinkedHash.class
-- 做 html 內碼暫存  
-- 以L inkedHashMap 實作儲存  
+- 做 html 內碼暫存  
+- 以LinkedHashMap 實作儲存  
   目的在於、同步抓取會遇到資料混雜的狀況  
-  所以在 Crawler 作讀取 html 內碼時，會給予標籤  
-  以便 LinkedHashMap 作頁面區分  
-  
+  所以在 Crawler 作讀取 html 內碼時，會給予標籤  
+  以便 LinkedHashMap 作頁面區分  
   
     
 Crawler Project 是我從大二暑假練習爬蟲時、陸續修改至今(大四)的學習整理
