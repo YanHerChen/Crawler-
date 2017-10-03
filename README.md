@@ -1,8 +1,8 @@
 # Crawler-蘋果新聞頁面下載
 
-Crawler Project 僅作同步 download  
-之後將開發 URL 自動搜索，配合 Crawler Project 進行通用版網路爬蟲  
-故目前 URL 是寫死在 PageManager.class 裏頭  
+Crawler Project 僅作同步下載    
+之後將開發URL 自動搜索，配合Crawler Project 進行通用版網路爬蟲  
+故目前URL 是寫死在PageManager.class 裏頭  
   
   
 實作說明
