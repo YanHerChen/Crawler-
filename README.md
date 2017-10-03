@@ -31,5 +31,4 @@ LinkedHash.class
   以便 LinkedHashMap 作頁面區分  
   
     
-Crawler Project 是我從大二暑假練習爬蟲時、陸續修改至今(大四)的學習整理
-此次上傳以蘋果新聞當範例
+Crawler Project 是我從大二暑假練習爬蟲時、陸續修改至今(大四)的學習整理  
