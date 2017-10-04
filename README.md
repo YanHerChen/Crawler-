@@ -36,8 +36,6 @@ LinkedHash.class
 
 執行結果
  - 將新聞頁面html下載到本地端
-     
-      
-      
+  
 Crawler Project 是我從大二暑假練習爬蟲時、陸續修改至今(大四)的學習整理  
 
