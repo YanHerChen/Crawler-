@@ -13,22 +13,31 @@ MultiThread
 - newCachedThreadPool 搭配 Semaphore 實作  
   
   
+    
 PageManager.class
 - 暫時寫定要抓取的網址
 - 以 AtomicInteger 控制url陣列  
   
   
+    
 DownloadWeb.class
 - 做輸出html頁面，可做輸出位置修改
 - File file = new File("D:/Apple/"+fn.getn()+".html");  
   
   
+    
 LinkedHash.class
 - 做 html 內碼暫存  
 - 以LinkedHashMap 實作儲存  
   目的在於、同步抓取會遇到資料混雜的狀況  
   所以在 Crawler 作讀取 html 內碼時，會給予標籤  
   以便 LinkedHashMap 作頁面區分  
-  
-    
-Crawler Project 是我從大二暑假練習爬蟲時、陸續修改至今(大四)的學習整理  
+   
+
+執行結果
+ - 將新聞頁面html下載到本地端
+     
+      
+      
+Crawler Project 是我從大二暑假練習爬蟲時、陸續修改至今(大四)的學習整理  
+
